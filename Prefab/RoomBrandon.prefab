@@ -48,7 +48,7 @@ PrefabInstance:
     - target: {fileID: 134646616759943697, guid: 51921b8dcf7622e41aa609258fbb3754,
         type: 3}
       propertyPath: m_VersionIndex
-      value: 1679
+      value: 1685
       objectReference: {fileID: 0}
     - target: {fileID: 701833395465303092, guid: 51921b8dcf7622e41aa609258fbb3754,
         type: 3}
@@ -63,12 +63,42 @@ PrefabInstance:
     - target: {fileID: 2933653822315916746, guid: 51921b8dcf7622e41aa609258fbb3754,
         type: 3}
       propertyPath: m_VersionIndex
-      value: 1338
+      value: 1344
       objectReference: {fileID: 0}
     - target: {fileID: 3515354655206492029, guid: 51921b8dcf7622e41aa609258fbb3754,
         type: 3}
       propertyPath: m_Mesh
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029751936725916050, guid: 51921b8dcf7622e41aa609258fbb3754,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.9091997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029751936725916050, guid: 51921b8dcf7622e41aa609258fbb3754,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 45.898922
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029751936725916050, guid: 51921b8dcf7622e41aa609258fbb3754,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.9091997
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029751936725916050, guid: 51921b8dcf7622e41aa609258fbb3754,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029751936725916050, guid: 51921b8dcf7622e41aa609258fbb3754,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 15.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029751936725916050, guid: 51921b8dcf7622e41aa609258fbb3754,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.37
       objectReference: {fileID: 0}
     - target: {fileID: 5696866842559224715, guid: 51921b8dcf7622e41aa609258fbb3754,
         type: 3}
