@@ -1213,6 +1213,36 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 144292564}
+    - target: {fileID: 2113513046194825382, guid: 1151571fcf806204c824d8054fabe4a4,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.9091997
+      objectReference: {fileID: 0}
+    - target: {fileID: 2113513046194825382, guid: 1151571fcf806204c824d8054fabe4a4,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 45.898922
+      objectReference: {fileID: 0}
+    - target: {fileID: 2113513046194825382, guid: 1151571fcf806204c824d8054fabe4a4,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.9091997
+      objectReference: {fileID: 0}
+    - target: {fileID: 2113513046194825382, guid: 1151571fcf806204c824d8054fabe4a4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 2113513046194825382, guid: 1151571fcf806204c824d8054fabe4a4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 15.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2113513046194825382, guid: 1151571fcf806204c824d8054fabe4a4,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.37
+      objectReference: {fileID: 0}
     - target: {fileID: 2156712140809305877, guid: 1151571fcf806204c824d8054fabe4a4,
         type: 3}
       propertyPath: m_Mesh
