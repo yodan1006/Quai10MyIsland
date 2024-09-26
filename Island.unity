@@ -458,26 +458,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: RoomBrandon
       objectReference: {fileID: 0}
-    - target: {fileID: 5366373620015525792, guid: 1151571fcf806204c824d8054fabe4a4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -9.48
-      objectReference: {fileID: 0}
-    - target: {fileID: 5366373620015525792, guid: 1151571fcf806204c824d8054fabe4a4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5366373620015525792, guid: 1151571fcf806204c824d8054fabe4a4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0.54
-      objectReference: {fileID: 0}
-    - target: {fileID: 8879909603257094638, guid: 1151571fcf806204c824d8054fabe4a4,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.1
-      objectReference: {fileID: 0}
     - target: {fileID: 8879909603257094638, guid: 1151571fcf806204c824d8054fabe4a4,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -526,11 +506,6 @@ PrefabInstance:
     - target: {fileID: 8879909603257094638, guid: 1151571fcf806204c824d8054fabe4a4,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8999471084381575958, guid: 1151571fcf806204c824d8054fabe4a4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
